@@ -1,0 +1,1 @@
+You think of a number between 1 and 100, and the computer tries to guess it. After each guess, you give feedback: higher, lower, or correct. The computer uses smart logic (binary search) to narrow down the possibilities and find your number in as few attempts as possible.
